@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "208235229683",
+    "project_id": "digemo-5923d",
+    "storage_bucket": "digemo-5923d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208235229683:android:7f944f4c515d39b10be286",
+        "android_client_info": {
+          "package_name": "com.digemo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208235229683-m9qv5ruse3a5cliu7964urh4enfjk5rd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digemo.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "208235229683-rjk4mhta0liljbmn1va2kk95mdo5hejg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7vIcy8K1dX5gGhSj1LuaUCxyWf-10Pwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208235229683-rjk4mhta0liljbmn1va2kk95mdo5hejg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "208235229683-4l4jk1cl02prag65fl1479f4vpr8uanm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.digemo.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

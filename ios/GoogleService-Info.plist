@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>208235229683-4l4jk1cl02prag65fl1479f4vpr8uanm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.208235229683-4l4jk1cl02prag65fl1479f4vpr8uanm</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>208235229683-m9qv5ruse3a5cliu7964urh4enfjk5rd.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyArc6TsNhkHOoisMnsKIYMqZHZuy6N1XR4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>208235229683</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.digemo.app</string>
+	<key>PROJECT_ID</key>
+	<string>digemo-5923d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>digemo-5923d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:208235229683:ios:3d919852307356d40be286</string>
+</dict>
+</plist>
